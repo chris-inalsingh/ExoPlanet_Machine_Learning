@@ -31,3 +31,5 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 
 ## Reporting
+
+The Logistic Regression Model had a better data score than SVM by 0.01 but once the models were hypertuned with the GridSearch parameters they had around the same accuracy of 0.87. Both models provided would be good enough to predict future exoplanets because they both have the same accuracy.
